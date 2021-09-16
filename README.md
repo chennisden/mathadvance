@@ -4,6 +4,10 @@ Are you a new or prospective contributor to Math Advance? Then this is the right
 
 Depending on how many permissions you have within Math Advance, you may not be able to see some of the repositories I am mentioning. If you can't see a repository you are interested in, email me at [dchen@mathadvance.org](mailto:dchen@mathadvance.org) and request for access.
 
+## Committing and Pushing
+
+If you have direct commit/push access, **commit to dev branches**. Don't commit to the main branch for anything other than "version releases". If you don't, fork and pull request once you're done. You should pull request to main since it's actually stable.
+
 ## Technology Guidelines
 
 If you have access to the MAST repository, please make sure you compile PDFs correctly. Typically this requires a working `latexmk` setup with a `.latexmkrc` that compiles Asymptote. **If you send in a commit that doesn't have a PDF compile I will reject it. If you send in a commit that has a PDF compile without diagrams I will reject it.**
