@@ -73,4 +73,4 @@ We use Tailwind CSS in pretty much all of our projects.
 
 ### Logic
 
-We use Next JS for all of our projects and slug through `pages` for `.mdx` (MarkdownX) files. As for backend, `mast-web` uses MongoDB with Next JS. We are using Vultr to host our servers.
+We use Next JS for all of our projects and slug through `pages` for `.mdx` (MarkdownX) files. As for backend, `mast-web` uses MongoDB and Redis with Next JS APIs. We are using Vultr to host our servers.
